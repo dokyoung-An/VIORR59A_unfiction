@@ -1397,7 +1397,7 @@
     <control simulatemass="1" rubberband="0" dblclickfullscreen="0" invertwheel="0" contextvr="1" sensitivity="8" invertcontrol="1" zoomcentercursor="1" hideabout="1" speedwheel="1" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
   </panorama>
   <masternode>
-    <userdata comment="" author="" description="59A" copyright="" title="천호동 주상복합 VIORR 59A" tags=""/>
+    <userdata comment="" author="59.35" description="59A" copyright="79.89" title="천호동 주상복합 VIORR 59A" tags=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>

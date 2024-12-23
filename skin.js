@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.10/20025
 // Filename: ??? ???? VIORR 59A - ??.ggsk
-// Generated 2024-12-23T10:04:22
+// Generated 2024-12-23T11:30:16
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_minimap_button', 2, false, { ignoreInState: 0  });
@@ -887,7 +887,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me.__84.ggUpdateText=function() {
 			var params = [];
-			params.push(String(player._(player.getNodeUserdata('_master').author)));
+			params.push(String(player._(player.getNodeUserdata('_master').copyright)));
 			var hs = player._("\ubd84\uc591 \uba74\uc801 %1\u33a1", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
@@ -990,7 +990,7 @@ function pano2vrSkin(player,base) {
 					if (me.__84.ggUpdateText) {
 					me.__84.ggUpdateText=function() {
 						var params = [];
-						params.push(String(player._(player.getNodeUserdata('_master').author)));
+						params.push(String(player._(player.getNodeUserdata('_master').copyright)));
 						var hs = player._("\ubd84\uc591 \uba74\uc801 %1\u33a1", params);
 						if (hs!=this.ggText) {
 							this.ggText=hs;
@@ -9942,7 +9942,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._m26.ggUpdateText=function() {
 			var params = [];
-			params.push(String(player._(player.getNodeUserdata('_master').author)));
+			params.push(String(player._(player.getNodeUserdata('_master').copyright)));
 			var hs = player._("\ubd84\uc591 \uba74\uc801 %1\u33a1", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
@@ -10045,7 +10045,7 @@ function pano2vrSkin(player,base) {
 					if (me._m26.ggUpdateText) {
 					me._m26.ggUpdateText=function() {
 						var params = [];
-						params.push(String(player._(player.getNodeUserdata('_master').author)));
+						params.push(String(player._(player.getNodeUserdata('_master').copyright)));
 						var hs = player._("\ubd84\uc591 \uba74\uc801 %1\u33a1", params);
 						if (hs!=this.ggText) {
 							this.ggText=hs;
